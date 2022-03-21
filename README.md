@@ -2,7 +2,7 @@
 - 👀 I’m interested in Smart Contracts and Data Science
 - 🌱 I’m currently learning Solidity and Python
 - 💞️ I’m looking to collaborate on NFT
-- 📫 How to reach me jodasa200@gmail.com
+- 📫 How to reach me ...
 
 <!---
 jodasa2000/jodasa2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
